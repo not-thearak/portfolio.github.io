@@ -379,10 +379,10 @@
     position: relative;
 }
 .projects .row .item:nth-child(1){
-    background: url(../assets/project-img-1.jpg) center/cover no-repeat;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ19b4P0b2JwlfwLL0Dwbvi7RY2_dw28NvwmA&s) center/cover no-repeat;
 }
 .projects .row .item:nth-child(2){
-    background: url(../assets/school_management.PNG) center/cover no-repeat;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ19b4P0b2JwlfwLL0Dwbvi7RY2_dw28NvwmA&s) center/cover no-repeat;
 }
 .projects .row .item:nth-child(3){
     background: url(../assets/jongdeng2.PNG) center/cover no-repeat;
